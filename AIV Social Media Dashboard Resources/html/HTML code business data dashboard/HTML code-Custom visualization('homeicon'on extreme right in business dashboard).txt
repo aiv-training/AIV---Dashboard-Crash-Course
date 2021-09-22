@@ -1,0 +1,89 @@
+<!DOCTYPE html> 
+
+<html> 
+
+<meta name="viewport" content="width=device-width, initial-scale=1"> 
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"> 
+
+<style> 
+
+body {font-family: Arial, Helvetica, sans-serif;} 
+
+  
+
+.navbar { 
+
+  width: 100%; 
+
+  background-color: rgba(255,255,255,0); 
+
+  overflow: auto; 
+
+  
+
+} 
+
+  
+
+.navbar a { 
+
+  float: left; 
+
+  padding: none; 
+
+  color: white; 
+
+  text-decoration: none; 
+
+  font-size: 17px; 
+
+} 
+
+  
+
+.active { 
+
+  background-color: rgba(255,255,255,0); 
+
+} 
+
+  
+
+@media screen and (max-width: 500px) { 
+
+  .navbar a { 
+
+    float: none; 
+
+    display: block; 
+
+  } 
+
+} 
+
+</style> 
+
+<body> 
+
+  
+
+<div class="navbar"> 
+
+  <a class="active" href="#"><i class="fa fa-fw fa-home" style="font-size: 43px;" onclick="myFunction1()"></i></a>  
+
+    <script> 
+
+  function myFunction1(){ 
+
+  var tab = new CustomEvent("aiv-change-tab", { 
+
+   "detail": 0 
+
+}); 
+
+window.parent.dispatchEvent(tab);  
+
+  } 
+
+</script> 

@@ -1,0 +1,65 @@
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"> 
+
+  
+
+  
+
+<div id="mySidenav" class="sidenav"> 
+
+  <a href="#" id="about" onclick="myFunction1()">Facebook <i class="fa fa-facebook" style="margin-left: 12px; font-size:18px;"></i></a>  
+
+   
+
+  <a href="#" id="blog" onclick="myFunction2()">Twitter <i class="fa fa-twitter" style="margin-left: 22px; font-size:18px;"></i></a> 
+
+   
+
+  <a href="#" id="projects" onclick="myFunction3()">LinkedIn <i class="fa fa-linkedin" style="margin-left: 12px; font-size:18px;"></i></a> 
+
+</div> 
+
+<script> 
+
+   
+
+  function myFunction1(){ 
+
+  var tab = new CustomEvent("aiv-change-tab", { 
+
+   "detail": 0 
+
+}); 
+
+window.parent.dispatchEvent(tab);  
+
+  } 
+
+   
+
+    function myFunction2(){ 
+
+  var tab = new CustomEvent("aiv-change-tab", { 
+
+   "detail": 3 
+
+}); 
+
+window.parent.dispatchEvent(tab);  
+
+  } 
+
+   
+
+    function myFunction3(){ 
+
+  var tab = new CustomEvent("aiv-change-tab", { 
+
+   "detail": 2 
+
+}); 
+
+window.parent.dispatchEvent(tab);  
+
+  } 
+
+</script> 

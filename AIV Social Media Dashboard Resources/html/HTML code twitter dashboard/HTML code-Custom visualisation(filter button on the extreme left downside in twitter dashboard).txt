@@ -1,0 +1,229 @@
+<div id="myDIV"> 
+
+<span class="title1">Select Year</span> <br> 
+
+<button onclick="myFunction1()"  id="2015" class="button1">2015</button> <br> 
+
+  <button onclick="myFunction2()"  id="2016" class="button1">2016</button> <br> 
+
+<button onclick="myFunction3()"  id="2017" class="button1">2017</button> <br> 
+
+<button  onclick="myFunction4()"  id="2018" class="button1">2018</button> <br> 
+
+<button onclick="myFunction5()"  id="2019" class="button1">2019</button> <br> 
+
+<button  onclick="myFunction6()"  id="2020" class="button1">2020</button> <br> 
+
+<br> 
+
+  
+
+<div id="myDIV"> 
+
+<span class="title1">Select Month</span> <br> 
+
+<button onclick="myFunction7()"  id="Monday" class="button2">Mon</button> <br> 
+
+<button onclick="myFunction8()"  id="Tuesday" class="button2">Tue</button> <br> 
+
+<button  onclick="myFunction9()"  id="Wednesday" class="button2">Wed</button> <br> 
+
+<button onclick="myFunction10()"  id="Thursday" class="button2">Thu</button> <br> 
+
+<button  onclick="myFunction11()"  id="Friday" class="button2">Fri</button> <br> 
+
+<button  onclick="myFunction12()"  id="Saturday" class="button2">Sat</button> <br> 
+
+<button  onclick="myFunction13()"  id="Sunday" class="button2">Sun</button> <br> 
+
+<script> 
+
+  
+
+      // Add active class to the current button (highlight it) 
+
+      var header = document.getElementById("myDIV"); 
+
+      var btns = header.getElementsByClassName("button1"); 
+
+      for (var i = 0; i < btns.length; i++) { 
+
+        btns[i].addEventListener("click", function() { 
+
+        var current = document.getElementsByClassName("active"); 
+
+        current[0].className = current[0].className.replace(" active", ""); 
+
+        this.className += " active"; 
+
+        }); 
+
+      } 
+
+</script> 
+
+  
+
+<script> 
+
+  function myFunction1(){ 
+
+  setTimeout(function(){  
+
+  var filter = new CustomEvent("aiv-filter-call", {     
+
+  "detail": {"TweetYear": '2015'}  });   
+
+  window.parent.dispatchEvent(filter); });  
+
+  } 
+
+  
+
+  function myFunction2(){ 
+
+  setTimeout(function(){  
+
+  var filter = new CustomEvent("aiv-filter-call", {     
+
+  "detail": {"TweetYear": '2016'}  });   
+
+  window.parent.dispatchEvent(filter); });  
+
+  } 
+
+   
+
+   function myFunction3(){ 
+
+  setTimeout(function(){  
+
+  var filter = new CustomEvent("aiv-filter-call", {     
+
+  "detail": {"TweetYear": '2017'}  });   
+
+  window.parent.dispatchEvent(filter); });  
+
+  } 
+
+   
+
+    function myFunction4(){ 
+
+  setTimeout(function(){  
+
+  var filter = new CustomEvent("aiv-filter-call", {     
+
+  "detail": {"TweetYear": '2018'}  });   
+
+  window.parent.dispatchEvent(filter); });  
+
+  } 
+
+   
+
+    function myFunction5(){ 
+
+  setTimeout(function(){  
+
+  var filter = new CustomEvent("aiv-filter-call", {     
+
+  "detail": {"TweetYear": '2019'}  });   
+
+  window.parent.dispatchEvent(filter); });  
+
+  } 
+
+   
+
+function myFunction6(){ 
+
+  setTimeout(function(){  
+
+  var filter = new CustomEvent("aiv-filter-call", {     
+
+  "detail": {"TweetYear": '2020'}  });   
+
+  window.parent.dispatchEvent(filter); });  
+
+  } 
+
+</script> 
+
+  
+
+<script> 
+
+      function myFunction7(){ 
+
+  setTimeout(function(){  
+
+  var filter = new CustomEvent("aiv-filter-call", {     
+
+  "detail": {"day": 'Monday'}  });   
+
+  window.parent.dispatchEvent(filter); });  
+
+  }      function myFunction8(){ 
+
+  setTimeout(function(){  
+
+  var filter = new CustomEvent("aiv-filter-call", {     
+
+  "detail": {"day": 'Tuesday'}  });   
+
+  window.parent.dispatchEvent(filter); });  
+
+  }      function myFunction9(){ 
+
+  setTimeout(function(){  
+
+  var filter = new CustomEvent("aiv-filter-call", {     
+
+  "detail": {"day": 'Wednesday'}  });   
+
+  window.parent.dispatchEvent(filter); });  
+
+  }      function myFunction10(){ 
+
+  setTimeout(function(){  
+
+  var filter = new CustomEvent("aiv-filter-call", {     
+
+  "detail": {"day": 'Thursday'}  });   
+
+  window.parent.dispatchEvent(filter); });  
+
+  }      function myFunction11(){ 
+
+  setTimeout(function(){  
+
+  var filter = new CustomEvent("aiv-filter-call", {     
+
+  "detail": {"day": 'Friday'}  });   
+
+  window.parent.dispatchEvent(filter); });  
+
+  }      function myFunction12(){ 
+
+  setTimeout(function(){  
+
+  var filter = new CustomEvent("aiv-filter-call", {     
+
+  "detail": {"day": 'Saturday'}  });   
+
+  window.parent.dispatchEvent(filter); });  
+
+  }      function myFunction13(){ 
+
+  setTimeout(function(){  
+
+  var filter = new CustomEvent("aiv-filter-call", {     
+
+  "detail": {"day": 'Sunday'}  });   
+
+  window.parent.dispatchEvent(filter); });  
+
+  } 
+
+</script> 

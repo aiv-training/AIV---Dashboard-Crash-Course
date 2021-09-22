@@ -1,0 +1,73 @@
+
+ 
+
+#mySidenav a { 
+
+  position: absolute; 
+
+  left: -80px; 
+
+  transition: 0.3s; 
+
+  padding: 15px; 
+
+  width: 100px; 
+
+  text-decoration: none; 
+
+  font-size: 16px; 
+
+  color: white; 
+
+  border-radius: 0 5px 5px 0; 
+
+  font-family: Tahoma; 
+
+} 
+
+  
+
+#mySidenav a:hover { 
+
+  left: 0; 
+
+  
+
+} 
+
+  
+
+#about { 
+
+  top: 10px; 
+
+  background-color: #04AA6D; 
+
+  height:8px; 
+
+} 
+
+  
+
+#blog { 
+
+  top: 50px; 
+
+  background-color: #2196F3; 
+
+  height:8px; 
+
+} 
+
+  
+
+#projects { 
+
+  top: 90px; 
+
+  background-color: #f44336; 
+
+  height:8px;; 
+
+} 
+

@@ -1,0 +1,57 @@
+var data={{dataset::Social Media}}; 
+
+console.log(data); 
+
+var female=0; 
+
+var post=0; 
+
+var liked=0; 
+
+var likes=0; 
+
+var share=0; 
+
+var comments=0; 
+
+var mutual=0; 
+
+for (i = 0; i < data.length; i++) {  //loop through the array 
+
+  if(data[i]["Gender"] == "Female") 
+
+  { 
+
+    female += data[i]["Female Friends"];  //Do the math! 
+
+    post += data[i]["Post count"];  //Do the math! 
+
+  likes += data[i]["Likes Females"];  //Do the math! 
+
+     share += data[i]["Share"];  //Do the math! 
+
+    comments += data[i]["Comments"];  //Do the math! 
+
+  } 
+
+} 
+
+console.log(post); 
+
+console.log(Math.round(likes)); 
+
+console.log(share); 
+
+console.log(comments); 
+
+document.getElementById('female').innerHTML="Female: "+female; 
+
+document.getElementById('post').innerHTML="Post: "+post; 
+
+document.getElementById('likes').innerHTML="Likes: "+Math.round(likes); 
+
+document.getElementById('share').innerHTML="Share: "+share; 
+
+document.getElementById('comments').innerHTML="Comments: "+comments; 
+
+ 

@@ -1,0 +1,33 @@
+<script src="https://cdn.jsdelivr.net/npm/lodash@4.17.21/lodash.min.js"></script> 
+
+<meta name="viewport" content="width=device-width, initial-scale=1"> 
+
+<div class="flip-card"> 
+
+  <div class="flip-card-inner"> 
+
+    <div class="flip-card-front"> 
+
+      <img src="/aiv/appimages/Default/man.svg" alt="Avatar" style="width:100px;height:120px;"> 
+
+    </div> 
+
+    <div class="flip-card-back"><br> 
+
+      <br> 
+
+      <span id='male' class="male"> </span><br> 
+
+      <span id='post' class="post"> </span><br> 
+
+      <span id='likes' class="likes"> </span><br> 
+
+      <span id='share' class="share"> </span><br> 
+
+      <span id='comments' class="comments"> </span><br> 
+
+    </div> 
+
+  </div> 
+
+</div> 

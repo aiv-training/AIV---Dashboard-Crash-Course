@@ -1,0 +1,61 @@
+SrNo,Country,Number_of_Doners,Donations_Platform,Month,Year,Top_Social_Media,Actual_Donations,Target_Donation
+1,United States,106,LinkedIn,January,2016,LinkedIn,93035,47629
+2,UK,327,Twitter,February,2016,Twitter,92447,80622
+3,Norway,386,Facebook,March,2016,Facebook,47902,20755
+4,Afghanistan,585,Instagram,April,2016,Instagram,61824,92289
+5,Albania,928,BlogPost,May,2016,Google,93371,71541
+6,Algeria,440,Webpage,June,2016,LinkedIn,16597,24240
+7,Andorra,154,Other,July,2016,Twitter,42640,47716
+8,Angola,236,LinkedIn,August,2016,Facebook,48741,94392
+9,Antigua and Barbuda,484,Twitter,September,2016,Instagram,90476,63922
+10,Argentina,126,Facebook,October,2016,Google,66679,57541
+11,Armenia,762,Instagram,November,2016,LinkedIn,19840,81431
+12,Australia,782,BlogPost,December,2016,Twitter,85055,37093
+13,Austria,605,Webpage,January,2017,Facebook,88064,49631
+14,Azerbaijan,849,Other,February,2017,Instagram,40687,93680
+15,Bahamas,264,LinkedIn,March,2017,Google,53288,27023
+16,Bahrain,524,Twitter,April,2017,LinkedIn,51151,32257
+17,Bangladesh,140,Facebook,May,2017,Twitter,97740,78089
+18,Barbados,737,Instagram,June,2017,Facebook,14144,87018
+19,Belarus,455,BlogPost,July,2017,Instagram,17549,72138
+20,Belgium,861,Webpage,August,2017,Google,47459,41209
+21,Belize,154,Other,September,2017,LinkedIn,48635,69676
+22,Benin,979,LinkedIn,October,2017,Twitter,45954,79444
+23,Bhutan,623,Twitter,November,2017,Facebook,32230,75205
+24,Bolivia (Plurinational State of),188,Facebook,December,2017,Instagram,63160,68705
+25,Bosnia and Herzegovina,554,Instagram,January,2018,Google,32306,24718
+26,Botswana,613,BlogPost,February,2018,LinkedIn,22145,47697
+27,Brazil,130,Webpage,March,2018,Twitter,21197,44354
+28,Brunei Darussalam,597,Other,April,2018,Facebook,45428,85834
+29,Bulgaria,402,LinkedIn,May,2018,Instagram,92437,99518
+30,Burkina Faso,677,Twitter,June,2018,Google,14278,73899
+31,Burundi,704,Facebook,July,2018,LinkedIn,27088,23679
+32,Cabo Verde,909,Instagram,August,2018,Twitter,11599,77685
+33,Cambodia,764,BlogPost,September,2018,Facebook,96446,61970
+34,Cameroon,266,Webpage,October,2018,Instagram,70103,24618
+35,Canada,136,Other,November,2018,Google,39294,96340
+36,Central African Republic,694,LinkedIn,December,2018,LinkedIn,61308,56740
+37,Chad,424,Twitter,January,2019,Twitter,68190,95600
+38,Chile,270,Facebook,February,2019,Facebook,21927,98103
+39,China,970,Instagram,March,2019,Instagram,94736,91921
+40,Colombia,367,BlogPost,April,2019,Google,46442,26176
+41,Comoros,448,Webpage,May,2019,LinkedIn,93808,39390
+42,Congo,393,Other,June,2019,Twitter,42633,22280
+43,Costa Rica,127,LinkedIn,July,2019,Facebook,25153,41531
+44,Côte d'Ivoire,117,Twitter,August,2019,Instagram,53927,79133
+45,Croatia,538,Facebook,September,2019,Google,30115,27123
+46,Cuba,138,Instagram,October,2019,LinkedIn,54769,71761
+47,Cyprus,995,BlogPost,November,2019,Twitter,81775,86681
+48,Czechia,288,Webpage,December,2019,Facebook,34574,38852
+49,Democratic People's Republic of Korea ,371,Other,January,2020,Instagram,74028,94252
+50,Democratic Republic of the Congo,273,LinkedIn,February,2020,Google,22918,73154
+51,Denmark,446,Twitter,March,2020,LinkedIn,70982,39170
+52,Djibouti,314,Facebook,April,2020,Twitter,44738,44259
+53,Dominica,303,Instagram,May,2020,Facebook,24873,89513
+54,Dominican Republic,680,BlogPost,June,2020,Instagram,24893,80512
+55,Ecuador,530,Webpage,July,2020,Google,48522,24050
+56,Egypt,797,Other,August,2020,LinkedIn,36150,36218
+57,El Salvador,273,LinkedIn,September,2020,Twitter,65687,81360
+58,Equatorial Guinea,555,Twitter,October,2020,Facebook,97739,99870
+59,Eritrea,530,Facebook,November,2020,Instagram,16735,53942
+60,Estonia,286,Instagram,December,2020,Google,53460,30501

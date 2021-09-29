@@ -1,0 +1,501 @@
+SrNo,Region,Country,Segments,Score Category,Run rate category,Daily sales,Full month target,Sales per,Full month Forecast,Pro-rata,CSAT Score,CSAT Per
+1,Central,United States,Parts,Promoters,Target,1140,16018,7.12,70775,17693.75,8,0.8
+2,Southern,UK,Parts,Detractors,Actual,4534,38004,11.93,73647,18411.75,-5,-0.5
+3,Northern,Norway,Accessories,Neutral,Target,8793,42971,20.46,82251,20562.75,-4,-0.4
+4,Northern,Afghanistan,Service,Promoters,Actual,5744,47845,12.01,82606,20651.5,2,0.2
+5,Eastern,Albania,Accidents,Detractors,Target,4645,21117,22,33115,8278.75,6,0.6
+6,Central,Algeria,Accessories,Neutral,Actual,3381,23589,14.33,59878,14969.5,3,0.3
+7,Central,Andorra,Parts,Promoters,Target,8449,49554,17.05,23879,5969.75,3,0.3
+8,Western,Angola,Mechanical,Detractors,Actual,1416,31242,4.53,43528,10882,2,0.2
+9,Northern,Antigua and Barbuda,Accessories,Neutral,Target,4829,43320,11.15,47701,11925.25,-2,-0.2
+10,Western,Argentina,Accessories,Promoters,Actual,8285,23141,35.8,48330,12082.5,9,0.9
+11,Western,Armenia,Accidents,Detractors,Target,2251,45114,4.99,37740,9435,6,0.6
+12,Western,Australia,Workshop,Neutral,Actual,8387,26986,31.08,85843,21460.75,8,0.8
+13,Northern,Austria,Parts,Promoters,Target,1995,21881,9.12,56316,14079,7,0.7
+14,Northern,Azerbaijan,Parts,Detractors,Actual,8406,21113,39.81,40066,10016.5,-6,-0.6
+15,Eastern,Bahamas,Accessories,Neutral,Target,7187,15925,45.13,18836,4709,6,0.6
+16,Northern,Bahrain,Service,Promoters,Actual,6629,27565,24.05,65730,16432.5,-1,-0.1
+17,Southern,Bangladesh,Accidents,Detractors,Target,4597,28954,15.88,16158,4039.5,9,0.9
+18,Southern,Barbados,Accidents,Neutral,Actual,5458,33678,16.21,53156,13289,10,1
+19,Other,Belarus,Parts,Promoters,Target,7376,41712,17.68,28917,7229.25,10,1
+20,Western,Belgium,Mechanical,Detractors,Actual,5399,25721,20.99,52744,13186,-8,-0.8
+21,Northern,Belize,Accessories,Neutral,Target,2193,42726,5.13,16780,4195,7,0.7
+22,Northern,Benin,Accessories,Promoters,Actual,6976,20276,34.41,87724,21931,1,0.1
+23,Central,Bhutan,Accessories,Detractors,Target,5565,46887,11.87,60103,15025.75,-7,-0.7
+24,Northern,Bolivia (Plurinational State of),Workshop,Neutral,Actual,4126,44628,9.25,75411,18852.75,10,1
+25,Northern,Bosnia and Herzegovina,Workshop,Promoters,Target,1997,28484,7.01,88502,22125.5,1,0.1
+26,Eastern,Botswana,Mechanical,Detractors,Actual,5594,47083,11.88,38730,9682.5,3,0.3
+27,Northern,Brazil,Accessories,Neutral,Target,8432,30084,28.03,54603,13650.75,8,0.8
+28,Southern,Brunei Darussalam,Accessories,Promoters,Actual,9739,17641,55.21,21253,5313.25,4,0.4
+29,Western,Bulgaria,Accidents,Detractors,Target,9048,48368,18.71,46813,11703.25,9,0.9
+30,Northern,Burkina Faso,Workshop,Neutral,Actual,9442,30215,31.25,63236,15809,-9,-0.9
+31,Southern,Burundi,Workshop,Promoters,Target,5431,41853,12.98,85155,21288.75,8,0.8
+32,Southern,Cabo Verde,Mechanical,Detractors,Actual,7699,22165,34.73,87560,21890,10,1
+33,Northern,Cambodia,Accessories,Neutral,Target,9356,46048,20.32,15805,3951.25,6,0.6
+34,Northern,Cameroon,Accessories,Promoters,Actual,2264,14080,16.08,46734,11683.5,2,0.2
+35,Northern,Canada,Accidents,Detractors,Target,2952,45921,6.43,56115,14028.75,9,0.9
+36,Eastern,Central African Republic,Workshop,Neutral,Actual,2891,24983,11.57,80454,20113.5,-9,-0.9
+37,Central,Chad,Accessories,Promoters,Target,4639,44529,10.42,84520,21130,2,0.2
+38,Southern,Chile,Mechanical,Detractors,Actual,2814,10010,28.11,81052,20263,4,0.4
+39,Northern,China,Accessories,Neutral,Target,1254,12652,9.91,72290,18072.5,-3,-0.3
+40,Northern,Colombia,Service,Promoters,Actual,8363,30329,27.57,31457,7864.25,5,0.5
+41,Eastern,Comoros,Service,Detractors,Target,9796,30024,32.63,54126,13531.5,2,0.2
+42,Central,Congo,Workshop,Neutral,Actual,8013,47653,16.82,44965,11241.25,3,0.3
+43,Central,Costa Rica,Accessories,Promoters,Target,4079,11527,35.39,14875,3718.75,-5,-0.5
+44,Western,Côte d'Ivoire,Mechanical,Detractors,Actual,7254,40853,17.76,49583,12395.75,4,0.4
+45,Northern,Croatia,Mechanical,Neutral,Target,3178,23418,13.57,13509,3377.25,-1,-0.1
+46,Western,Cuba,Service,Promoters,Actual,9928,19867,49.97,85730,21432.5,3,0.3
+47,Western,Cyprus,Accidents,Detractors,Target,1594,37279,4.28,21981,5495.25,4,0.4
+48,Western,Czechia,Workshop,Neutral,Actual,7286,12276,59.35,65928,16482,7,0.7
+49,Northern,Democratic People's Republic of Korea,Workshop,Promoters,Target,7068,21319,33.15,12799,3199.75,8,0.8
+50,Northern,Democratic Republic of the Congo,Mechanical,Detractors,Actual,2087,37634,5.55,29322,7330.5,5,0.5
+51,Eastern,Denmark,Accessories,Neutral,Target,7658,38745,19.77,80751,20187.75,-2,-0.2
+52,Northern,Djibouti,Service,Promoters,Actual,7235,33645,21.5,50735,12683.75,6,0.6
+53,Southern,Dominica,Service,Detractors,Target,4640,10013,46.34,66703,16675.75,9,0.9
+54,Southern,Dominican Republic,Workshop,Neutral,Actual,3488,15383,22.67,18095,4523.75,3,0.3
+55,Other,Ecuador,Parts,Promoters,Target,5140,40663,12.64,71083,17770.75,-3,-0.3
+56,Western,Egypt,Mechanical,Detractors,Actual,2002,15473,12.94,57680,14420,8,0.8
+57,Northern,El Salvador,Mechanical,Neutral,Target,8787,19177,45.82,41986,10496.5,-2,-0.2
+58,Northern,Equatorial Guinea,Service,Promoters,Actual,3023,23274,12.99,45308,11327,-5,-0.5
+59,Central,Eritrea,Accidents,Detractors,Target,8570,45414,18.87,22332,5583,3,0.3
+60,Northern,Estonia,Accidents,Neutral,Actual,4094,39883,10.27,36439,9109.75,5,0.5
+61,Northern,Eswatini,Parts,Promoters,Target,2204,32223,6.84,14362,3590.5,10,1
+62,Eastern,Ethiopia,Parts,Detractors,Actual,8114,20452,39.67,84836,21209,3,0.3
+63,Northern,Fiji,Accessories,Neutral,Target,5196,31729,16.38,27518,6879.5,-4,-0.4
+64,Southern,Finland,Service,Promoters,Actual,3966,42089,9.42,83131,20782.75,1,0.1
+65,Western,France,Service,Detractors,Target,3220,32358,9.95,11331,2832.75,-1,-0.1
+66,Northern,Gabon,Workshop,Neutral,Actual,5045,24368,20.7,26155,6538.75,2,0.2
+67,Southern,Gambia,Parts,Promoters,Target,1687,14001,12.05,12568,3142,8,0.8
+68,Southern,Georgia,Parts,Detractors,Actual,6461,16545,39.05,75517,18879.25,9,0.9
+69,Northern,Germany,Accessories,Neutral,Target,5804,11454,50.67,71620,17905,1,0.1
+70,Northern,Ghana,Service,Promoters,Actual,5953,38165,15.6,40783,10195.75,-2,-0.2
+71,Northern,Greece,Accidents,Detractors,Target,7781,16322,47.67,42847,10711.75,-5,-0.5
+72,Eastern,Grenada,Accidents,Neutral,Actual,1776,30311,5.86,71000,17750,1,0.1
+73,Central,Guatemala,Accessories,Promoters,Target,6611,26583,24.87,38527,9631.75,4,0.4
+74,Southern,Guinea,Mechanical,Detractors,Actual,2003,21357,9.38,57336,14334,6,0.6
+75,Northern,Guinea-Bissau,Mechanical,Neutral,Target,4328,13907,31.12,77222,19305.5,10,1
+76,Northern,Guyana,Service,Promoters,Actual,3734,16590,22.51,52494,13123.5,9,0.9
+77,Eastern,Haiti,Accidents,Detractors,Target,5056,25450,19.87,69363,17340.75,10,1
+78,Central,Honduras,Workshop,Neutral,Actual,2478,39291,6.31,85315,21328.75,6,0.6
+79,Central,Hungary,Workshop,Promoters,Target,7585,18199,41.68,20228,5057,-2,-0.2
+80,Western,Iceland,Mechanical,Detractors,Actual,3109,21612,14.39,28400,7100,5,0.5
+81,Northern,India,Accessories,Neutral,Target,3166,27030,11.71,34705,8676.25,9,0.9
+82,Western,Indonesia,Accessories,Promoters,Actual,3043,32788,9.28,10455,2613.75,7,0.7
+83,Western,Iran (Islamic Republic of),Accidents,Detractors,Target,4217,24370,17.3,64373,16093.25,-3,-0.3
+84,Western,Iraq,Workshop,Neutral,Actual,5718,34346,16.65,82603,20650.75,4,0.4
+85,Northern,Ireland,Parts,Promoters,Target,4359,30310,14.38,40157,10039.25,2,0.2
+86,Northern,Israel,Mechanical,Detractors,Actual,2508,32020,7.83,83168,20792,-2,-0.2
+87,Eastern,Italy,Mechanical,Neutral,Target,7189,30159,23.84,42441,10610.25,4,0.4
+88,Northern,Jamaica,Service,Promoters,Actual,1306,37512,3.48,73400,18350,4,0.4
+89,Southern,Japan,Accidents,Detractors,Target,1712,34453,4.97,26676,6669,7,0.7
+90,Southern,Jordan,Workshop,Neutral,Actual,5555,40440,13.74,81810,20452.5,9,0.9
+91,Other,Kazakhstan,Parts,Promoters,Target,1621,22131,7.32,32623,8155.75,6,0.6
+92,Western,Kenya,Parts,Detractors,Actual,4883,37803,12.92,22959,5739.75,6,0.6
+93,Northern,Kiribati,Accessories,Neutral,Target,9894,47375,20.88,44901,11225.25,10,1
+94,Northern,Kuwait,Service,Promoters,Actual,1316,27429,4.8,17028,4257,10,1
+95,Central,Kyrgyzstan,Accidents,Detractors,Target,8427,38526,21.87,45987,11496.75,6,0.6
+96,Northern,Lao People's Democratic Republic,Accidents,Neutral,Actual,8277,20783,39.83,56286,14071.5,5,0.5
+97,Northern,Latvia,Parts,Promoters,Target,9355,31120,30.06,29133,7283.25,6,0.6
+98,Eastern,Lebanon,Mechanical,Detractors,Actual,8706,18984,45.86,20430,5107.5,-2,-0.2
+99,Northern,Lesotho,Accessories,Neutral,Target,1877,12347,15.2,41028,10257,6,0.6
+100,Southern,Liberia,Service,Promoters,Actual,8378,36201,23.14,35587,8896.75,9,0.9
+101,Western,Libya,Service,Promoters,Target,9420,16780,56.14,30891,7722.75,7,0.7
+102,Northern,Liechtenstein,Workshop,Detractors,Actual,8925,27653,32.27,75807,18951.75,-9,-0.9
+103,Southern,Lithuania,Parts,Neutral,Target,1734,32434,5.35,48905,12226.25,-4,-0.4
+104,Southern,Luxembourg,Parts,Promoters,Actual,9778,36232,26.99,66304,16576,7,0.7
+105,Northern,Madagascar,Accessories,Detractors,Target,8727,13496,64.66,88679,22169.75,10,1
+106,Northern,Malawi,Service,Neutral,Actual,1208,15485,7.8,72469,18117.25,1,0.1
+107,Northern,Malaysia,Accidents,Promoters,Target,1129,38972,2.9,27153,6788.25,2,0.2
+108,Eastern,Maldives,Accidents,Detractors,Actual,4105,18788,21.85,80150,20037.5,5,0.5
+109,Central,Mali,Accessories,Neutral,Target,6384,46006,13.88,35205,8801.25,8,0.8
+110,Southern,Malta,Mechanical,Promoters,Actual,3728,43768,8.52,48007,12001.75,4,0.4
+111,Northern,Marshall Islands,Mechanical,Detractors,Target,8783,38318,22.92,14159,3539.75,2,0.2
+112,Northern,Mauritania,Service,Neutral,Actual,2789,10393,26.84,30623,7655.75,4,0.4
+113,Eastern,Mauritius,Accidents,Promoters,Target,5764,19635,29.36,65674,16418.5,7,0.7
+114,Central,Mexico,Workshop,Detractors,Actual,9450,41442,22.8,81602,20400.5,-6,-0.6
+115,Central,Micronesia (Federated States of),Parts,Neutral,Target,3179,35443,8.97,82504,20626,-4,-0.4
+116,Western,Monaco,Parts,Promoters,Actual,3657,40627,9,51533,12883.25,5,0.5
+117,Northern,Mongolia,Accessories,Detractors,Target,9112,40545,22.47,82312,20578,7,0.7
+118,Western,Montenegro,Service,Neutral,Actual,5703,46363,12.3,19035,4758.75,1,0.1
+119,Western,Morocco,Accidents,Promoters,Target,2321,34438,6.74,34442,8610.5,7,0.7
+120,Western,Mozambique,Accidents,Detractors,Actual,6646,35849,18.54,61709,15427.25,-8,-0.8
+121,Northern,Myanmar,Parts,Neutral,Target,4606,13614,33.83,75911,18977.75,6,0.6
+122,Northern,Namibia,Mechanical,Promoters,Actual,2701,40352,6.69,47568,11892,6,0.6
+123,Eastern,Nauru,Accessories,Detractors,Target,4829,42216,11.44,83817,20954.25,-1,-0.1
+124,Northern,Nepal,Accessories,Neutral,Actual,6757,34743,19.45,63043,15760.75,1,0.1
+125,Southern,Netherlands,Accidents,Promoters,Target,9017,25734,35.04,11641,2910.25,4,0.4
+126,Southern,New Zealand,Workshop,Detractors,Actual,2957,39949,7.4,73650,18412.5,2,0.2
+127,Other,Nicaragua,Parts,Neutral,Target,8325,48133,17.3,58560,14640,1,0.1
+128,Western,Niger,Parts,Promoters,Actual,8992,14145,63.57,76956,19239,9,0.9
+129,Northern,Nigeria,Accessories,Detractors,Target,8923,11752,75.93,59394,14848.5,8,0.8
+130,Northern,North Macedonia,Service,Neutral,Actual,8643,11411,75.74,56389,14097.25,3,0.3
+131,Central,Norway,Accidents,Promoters,Target,3391,36440,9.31,37232,9308,1,0.1
+132,Northern,Oman,Accidents,Detractors,Actual,9401,11645,80.73,62981,15745.25,3,0.3
+133,Northern,Pakistan,Parts,Neutral,Target,1412,45591,3.1,20961,5240.25,1,0.1
+134,Eastern,Palau,Mechanical,Promoters,Actual,5893,14865,39.64,21376,5344,7,0.7
+135,Northern,Panama,Accessories,Detractors,Target,4364,49603,8.8,13146,3286.5,2,0.2
+136,Southern,Papua New Guinea,Service,Neutral,Actual,5836,35551,16.42,37719,9429.75,9,0.9
+137,Western,Paraguay,Service,Promoters,Target,4461,22573,19.76,67037,16759.25,-3,-0.3
+138,Northern,Peru,Workshop,Detractors,Actual,7327,12137,60.37,22952,5738,10,1
+139,Southern,Philippines,Parts,Neutral,Target,8194,21806,37.58,26563,6640.75,-3,-0.3
+140,Southern,Poland,Mechanical,Promoters,Actual,6637,37525,17.69,53866,13466.5,7,0.7
+141,Northern,Portugal,Accessories,Detractors,Target,3063,36463,8.4,69699,17424.75,3,0.3
+142,Northern,Qatar,Accessories,Neutral,Actual,2962,33671,8.8,24132,6033,9,0.9
+143,Northern,Republic of Korea,Accidents,Promoters,Target,9735,14037,69.35,74617,18654.25,7,0.7
+144,Eastern,Republic of Moldova,Workshop,Detractors,Actual,5629,31336,17.96,79328,19832,5,0.5
+145,Central,Romania,Parts,Neutral,Target,9479,48460,19.56,34686,8671.5,-1,-0.1
+146,Southern,Russian Federation,Parts,Promoters,Actual,9265,15918,58.2,12265,3066.25,2,0.2
+147,Northern,Rwanda,Accessories,Detractors,Target,8843,34650,25.52,84464,21116,6,0.6
+148,Northern,Saint Kitts and Nevis,Service,Neutral,Actual,8661,23250,37.25,17397,4349.25,6,0.6
+149,Eastern,Saint Lucia,Accidents,Promoters,Target,5201,10489,49.59,83610,20902.5,10,1
+150,Central,Saint Vincent and the Grenadines,Workshop,Detractors,Actual,6093,17755,34.32,53827,13456.75,7,0.7
+151,Central,Samoa,Workshop,Neutral,Target,9995,49542,20.17,79336,19834,-2,-0.2
+152,Western,San Marino,Mechanical,Promoters,Actual,6544,18619,35.15,13060,3265,4,0.4
+153,Northern,Sao Tome and Principe,Accessories,Detractors,Target,1088,45494,2.39,88686,22171.5,10,1
+154,Western,Saudi Arabia,Service,Neutral,Actual,4602,26360,17.46,85740,21435,8,0.8
+155,Western,Senegal,Accidents,Promoters,Target,4784,42704,11.2,23872,5968,-3,-0.3
+156,Western,Serbia,Workshop,Detractors,Actual,8685,12612,68.86,36342,9085.5,8,0.8
+157,Northern,Seychelles,Workshop,Neutral,Target,7477,28145,26.57,59760,14940,7,0.7
+158,Northern,Sierra Leone,Mechanical,Promoters,Actual,7383,13649,54.09,68642,17160.5,-6,-0.6
+159,Eastern,Singapore,Accessories,Detractors,Target,9023,24052,37.51,56308,14077,2,0.2
+160,Northern,Slovakia,Service,Neutral,Actual,5649,29971,18.85,57160,14290,10,1
+161,Southern,Slovenia,Accidents,Promoters,Target,8915,13186,67.61,29544,7386,9,0.9
+162,Southern,Solomon Islands,Accidents,Detractors,Actual,9790,10995,89.04,57862,14465.5,9,0.9
+163,Other,Somalia,Parts,Neutral,Target,8992,16421,54.76,79569,19892.25,-4,-0.4
+164,Western,South Africa,Parts,Promoters,Actual,2690,12554,21.43,39828,9957,10,1
+165,Northern,South Sudan,Accessories,Detractors,Target,8734,14290,61.12,35508,8877,6,0.6
+166,Northern,Spain,Service,Neutral,Actual,4671,39443,11.84,16075,4018.75,9,0.9
+167,Central,Sri Lanka,Service,Promoters,Target,8853,23828,37.15,15355,3838.75,3,0.3
+168,Northern,Sudan,Workshop,Detractors,Actual,2448,23852,10.26,41161,10290.25,8,0.8
+169,Northern,Suriname,Parts,Neutral,Target,8893,36051,24.67,37387,9346.75,5,0.5
+170,Eastern,Sweden,Mechanical,Promoters,Actual,4467,35417,12.61,83967,20991.75,-2,-0.2
+171,Northern,Switzerland,Mechanical,Detractors,Target,4818,41527,11.6,86460,21615,2,0.2
+172,Southern,Syrian Arab Republic,Service,Neutral,Actual,6788,39492,17.19,40959,10239.75,5,0.5
+173,Western,Tajikistan,Accidents,Promoters,Target,6011,44383,13.54,57024,14256,7,0.7
+174,Northern,Thailand,Accidents,Detractors,Actual,4007,25841,15.51,34992,8748,7,0.7
+175,Southern,Timor-Leste,Parts,Neutral,Target,5594,31177,17.94,86712,21678,8,0.8
+176,Southern,Togo,Parts,Promoters,Actual,2828,15690,18.02,52960,13240,8,0.8
+177,Northern,Tonga,Accessories,Detractors,Target,8376,20480,40.9,20793,5198.25,8,0.8
+178,Northern,Trinidad and Tobago,Service,Neutral,Actual,2268,29626,7.66,35502,8875.5,2,0.2
+179,Northern,Tunisia,Service,Promoters,Target,1147,37053,3.1,24482,6120.5,-2,-0.2
+180,Eastern,Turkey,Workshop,Detractors,Actual,9080,23015,39.45,65599,16399.75,6,0.6
+181,Central,Turkmenistan,Workshop,Neutral,Target,8061,14182,56.84,59144,14786,2,0.2
+182,Southern,Tuvalu,Mechanical,Promoters,Actual,9172,31243,29.36,50742,12685.5,7,0.7
+183,Northern,Uganda,Accessories,Detractors,Target,5642,18277,30.87,38108,9527,-3,-0.3
+184,Northern,Ukraine,Accessories,Neutral,Actual,1299,29399,4.42,77436,19359,9,0.9
+185,Eastern,United Arab Emirates,Accidents,Promoters,Target,3969,27447,14.46,46853,11713.25,8,0.8
+186,Central,United Kingdom of Great Britain and Northern Ireland,Accidents,Detractors,Actual,4104,18264,22.47,28892,7223,-2,-0.2
+187,Central,United Republic of Tanzania,Parts,Neutral,Target,6294,16197,38.86,74815,18703.75,4,0.4
+188,Western,United States of America,Parts,Promoters,Actual,4420,47734,9.26,26393,6598.25,3,0.3
+189,Northern,Uruguay,Accessories,Detractors,Target,6056,42606,14.21,48384,12096,9,0.9
+190,Western,Uzbekistan,Service,Neutral,Actual,8793,34820,25.25,78212,19553,6,0.6
+191,Western,Vanuatu,Accidents,Promoters,Target,4874,43847,11.12,67889,16972.25,8,0.8
+192,Western,Venezuela (Bolivarian Republic of),Workshop,Detractors,Actual,2728,44031,6.2,20621,5155.25,4,0.4
+193,Northern,Viet Nam,Parts,Neutral,Target,9181,14830,61.91,36955,9238.75,-9,-0.9
+194,Northern,Yemen,Mechanical,Promoters,Actual,2623,29924,8.77,31084,7771,10,1
+195,Eastern,Zambia,Accessories,Detractors,Target,2426,36197,6.7,20734,5183.5,6,0.6
+196,Northern,Zimbabwe,Accessories,Neutral,Actual,9679,12944,74.78,61179,15294.75,5,0.5
+197,Southern,United States,Accidents,Promoters,Target,8846,19481,45.41,32279,8069.75,3,0.3
+198,Southern,UK,Workshop,Detractors,Actual,9840,24456,40.24,13455,3363.75,-2,-0.2
+199,Other,Norway,Parts,Neutral,Target,9772,30358,32.19,20266,5066.5,8,0.8
+200,Western,Afghanistan,Parts,Promoters,Actual,1852,26401,7.01,20910,5227.5,6,0.6
+201,Northern,Albania,Accessories,Promoters,Target,9824,49396,19.89,87743,21935.75,10,1
+202,Northern,Algeria,Service,Detractors,Actual,4003,37104,10.79,26804,6701,-5,-0.5
+203,Central,Andorra,Accidents,Neutral,Target,3474,10519,33.03,59544,14886,-4,-0.4
+204,Northern,Angola,Accidents,Promoters,Actual,4912,26279,18.69,88796,22199,6,0.6
+205,Northern,Antigua and Barbuda,Parts,Detractors,Target,3017,11176,27,18371,4592.75,3,0.3
+206,Eastern,Argentina,Mechanical,Neutral,Actual,8548,12961,65.95,64698,16174.5,1,0.1
+207,Northern,Armenia,Accessories,Promoters,Target,4230,19828,21.33,14621,3655.25,1,0.1
+208,Southern,Australia,Accessories,Detractors,Actual,6787,49055,13.84,72242,18060.5,2,0.2
+209,Western,Austria,Accidents,Neutral,Target,8878,12093,73.41,53271,13317.75,-2,-0.2
+210,Northern,Azerbaijan,Workshop,Promoters,Actual,9844,23542,41.81,14803,3700.75,8,0.8
+211,Southern,Bahamas,Workshop,Detractors,Target,4976,29458,16.89,32992,8248,2,0.2
+212,Southern,Bahrain,Mechanical,Neutral,Actual,6618,20838,31.76,42684,10671,4,0.4
+213,Northern,Bangladesh,Accessories,Promoters,Target,8258,45841,18.01,21645,5411.25,2,0.2
+214,Northern,Barbados,Accessories,Detractors,Actual,1799,29935,6.01,73925,18481.25,-6,-0.6
+215,Northern,Belarus,Accidents,Neutral,Target,2034,39863,5.1,13760,3440,5,0.5
+216,Eastern,Belgium,Workshop,Promoters,Actual,7406,16199,45.72,53359,13339.75,-1,-0.1
+217,Central,Belize,Workshop,Detractors,Target,4579,22594,20.27,25294,6323.5,7,0.7
+218,Southern,Benin,Mechanical,Neutral,Actual,5384,38548,13.97,86604,21651,10,1
+219,Northern,Bhutan,Accessories,Promoters,Target,9235,49285,18.74,36422,9105.5,8,0.8
+220,Northern,Bolivia (Plurinational State of),Accessories,Detractors,Actual,2874,20208,14.22,71886,17971.5,-8,-0.8
+221,Eastern,Bosnia and Herzegovina,Accidents,Neutral,Target,7655,15302,50.03,18650,4662.5,1,0.1
+222,Central,Botswana,Workshop,Promoters,Actual,4938,22707,21.75,62177,15544.25,7,0.7
+223,Central,Brazil,Workshop,Detractors,Target,9448,37572,25.15,68840,17210,-7,-0.7
+224,Western,Brunei Darussalam,Mechanical,Neutral,Actual,4489,37652,11.92,27321,6830.25,3,0.3
+225,Northern,Bulgaria,Accessories,Promoters,Target,6775,39831,17.01,40919,10229.75,7,0.7
+226,Western,Burkina Faso,Service,Detractors,Actual,4573,21844,20.93,31836,7959,5,0.5
+227,Western,Burundi,Service,Neutral,Target,5981,49886,11.99,59705,14926.25,3,0.3
+228,Western,Cabo Verde,Workshop,Promoters,Actual,1155,30895,3.74,72900,18225,7,0.7
+229,Northern,Cambodia,Parts,Detractors,Target,9270,45502,20.37,83802,20950.5,10,1
+230,Northern,Cameroon,Mechanical,Neutral,Actual,9032,36056,25.05,80408,20102,-9,-0.9
+231,Eastern,Canada,Mechanical,Promoters,Target,8291,37758,21.96,89036,22259,3,0.3
+232,Northern,Central African Republic,Service,Detractors,Actual,6761,12423,54.42,18446,4611.5,10,1
+233,Southern,Chad,Accidents,Neutral,Target,3778,22646,16.68,66899,16724.75,2,0.2
+234,Southern,Chile,Workshop,Promoters,Actual,5898,13803,42.73,65880,16470,4,0.4
+235,Other,China,Workshop,Detractors,Target,8441,16455,51.3,12561,3140.25,5,0.5
+236,Western,Colombia,Mechanical,Neutral,Actual,4334,41044,10.56,20446,5111.5,-9,-0.9
+237,Northern,Comoros,Accessories,Promoters,Target,1719,40300,4.27,70740,17685,7,0.7
+238,Northern,Congo,Service,Detractors,Actual,9001,42192,21.33,88348,22087,9,0.9
+239,Central,Costa Rica,Service,Neutral,Target,9459,38443,24.61,83940,20985,-3,-0.3
+240,Northern,Côte d'Ivoire,Workshop,Promoters,Actual,1025,37467,2.74,24542,6135.5,2,0.2
+241,Northern,Croatia,Parts,Detractors,Target,9569,14203,67.37,54167,13541.75,10,1
+242,Eastern,Cuba,Mechanical,Neutral,Actual,3591,36581,9.82,35182,8795.5,1,0.1
+243,Northern,Cyprus,Mechanical,Promoters,Target,6731,41151,16.36,49654,12413.5,-5,-0.5
+244,Southern,Czechia,Service,Detractors,Actual,5610,24723,22.69,85112,21278,9,0.9
+245,Western,Democratic People's Republic of Korea,Accidents,Neutral,Target,8992,34034,26.42,16775,4193.75,-1,-0.1
+246,Northern,Democratic Republic of the Congo,Accidents,Promoters,Actual,2044,26296,7.77,86418,21604.5,9,0.9
+247,Southern,Denmark,Parts,Detractors,Target,8116,24381,33.29,72092,18023,7,0.7
+248,Southern,Djibouti,Parts,Neutral,Actual,2062,24341,8.47,82087,20521.75,1,0.1
+249,Northern,Dominica,Accessories,Promoters,Target,5323,42848,12.42,68706,17176.5,3,0.3
+250,Northern,Dominican Republic,Service,Detractors,Actual,2496,12314,20.27,31169,7792.25,7,0.7
+251,Northern,Ecuador,Service,Neutral,Target,8104,25996,31.17,45299,11324.75,-2,-0.2
+252,Eastern,Egypt,Workshop,Promoters,Actual,6417,22781,28.17,22825,5706.25,1,0.1
+253,Central,El Salvador,Parts,Detractors,Target,6398,34562,18.51,12333,3083.25,4,0.4
+254,Southern,Equatorial Guinea,Parts,Neutral,Actual,5265,19504,26.99,68388,17097,4,0.4
+255,Northern,Eritrea,Accessories,Promoters,Target,8252,49426,16.7,81878,20469.5,-3,-0.3
+256,Northern,Estonia,Service,Detractors,Actual,1093,20310,5.38,55036,13759,7,0.7
+257,Eastern,Eswatini,Accidents,Neutral,Target,6375,43841,14.54,62639,15659.75,-2,-0.2
+258,Central,Ethiopia,Accidents,Promoters,Actual,9377,10355,90.56,40174,10043.5,-5,-0.5
+259,Central,Fiji,Parts,Detractors,Target,1559,49787,3.13,31195,7798.75,6,0.6
+260,Western,Finland,Mechanical,Neutral,Actual,1029,42653,2.41,13237,3309.25,10,1
+261,Northern,France,Mechanical,Promoters,Target,7246,32302,22.43,78834,19708.5,9,0.9
+262,Western,Gabon,Service,Detractors,Actual,4964,47195,10.52,67043,16760.75,7,0.7
+263,Western,Gambia,Accidents,Neutral,Target,7796,41855,18.63,70474,17618.5,-4,-0.4
+264,Western,Georgia,Workshop,Promoters,Actual,2140,22023,9.72,75065,18766.25,10,1
+265,Northern,Germany,Workshop,Detractors,Target,8230,41858,19.66,37908,9477,-1,-0.1
+266,Northern,Ghana,Mechanical,Neutral,Actual,3447,48167,7.16,48544,12136,4,0.4
+267,Eastern,Greece,Accessories,Promoters,Target,8921,12750,69.97,72947,18236.75,4,0.4
+268,Northern,Grenada,Accessories,Detractors,Actual,5121,25520,20.07,37435,9358.75,9,0.9
+269,Southern,Guatemala,Accidents,Neutral,Target,8811,40523,21.74,27332,6833,3,0.3
+270,Southern,Guinea,Workshop,Promoters,Actual,1289,19362,6.66,80774,20193.5,-2,-0.2
+271,Other,Guinea-Bissau,Parts,Detractors,Target,3461,29499,11.73,73428,18357,-5,-0.5
+272,Western,Guyana,Mechanical,Neutral,Actual,2016,48965,4.12,41364,10341,5,0.5
+273,Northern,Haiti,Mechanical,Promoters,Target,4472,48850,9.15,77384,19346,10,1
+274,Northern,Honduras,Service,Detractors,Actual,1702,37293,4.56,49842,12460.5,8,0.8
+275,Central,Hungary,Accidents,Neutral,Target,5578,15419,36.18,21364,5341,9,0.9
+276,Northern,Iceland,Workshop,Promoters,Actual,8622,45844,18.81,70092,17523,2,0.2
+277,Northern,India,Parts,Detractors,Target,5640,27881,20.23,69748,17437,9,0.9
+278,Eastern,Indonesia,Parts,Neutral,Actual,2325,30725,7.57,44423,11105.75,8,0.8
+279,Northern,Iran (Islamic Republic of),Accessories,Promoters,Target,9304,46379,20.06,25729,6432.25,-2,-0.2
+280,Southern,Iraq,Service,Detractors,Actual,3343,15515,21.55,20850,5212.5,10,1
+281,Western,Ireland,Accidents,Neutral,Target,5572,44644,12.48,80446,20111.5,7,0.7
+282,Northern,Israel,Accidents,Promoters,Actual,3578,24442,14.64,54179,13544.75,8,0.8
+283,Southern,Italy,Parts,Detractors,Target,3447,33718,10.22,36917,9229.25,-3,-0.3
+284,Southern,Jamaica,Mechanical,Neutral,Actual,4521,40496,11.16,71783,17945.75,6,0.6
+285,Northern,Japan,Accessories,Promoters,Target,2440,34401,7.09,26048,6512,4,0.4
+286,Northern,Jordan,Service,Detractors,Actual,9679,25173,38.45,27519,6879.75,-2,-0.2
+287,Northern,Kazakhstan,Service,Neutral,Target,8921,22585,39.5,65991,16497.75,6,0.6
+288,Eastern,Kenya,Workshop,Promoters,Actual,3727,23511,15.85,11883,2970.75,5,0.5
+289,Central,Kiribati,Parts,Detractors,Target,7233,23462,30.83,18877,4719.25,3,0.3
+290,Southern,Kuwait,Parts,Neutral,Actual,2687,45314,5.93,39096,9774,4,0.4
+291,Northern,Kyrgyzstan,Accessories,Promoters,Target,1279,43443,2.94,80892,20223,3,0.3
+292,Northern,Lao People's Democratic Republic,Service,Detractors,Actual,5830,31939,18.25,11546,2886.5,8,0.8
+293,Eastern,Latvia,Accidents,Neutral,Target,4111,39287,10.46,62209,15552.25,1,0.1
+294,Central,Lebanon,Accidents,Promoters,Actual,4525,19422,23.3,34459,8614.75,7,0.7
+295,Central,Lesotho,Parts,Detractors,Target,8723,17572,49.64,49289,12322.25,6,0.6
+296,Western,Liberia,Mechanical,Neutral,Actual,4483,21780,20.58,21825,5456.25,2,0.2
+297,Northern,Libya,Mechanical,Promoters,Target,2893,20559,14.07,58849,14712.25,4,0.4
+298,Western,Liechtenstein,Service,Detractors,Actual,8465,36821,22.99,44128,11032,-2,-0.2
+299,Western,Lithuania,Accidents,Neutral,Target,7463,28251,26.42,68055,17013.75,9,0.9
+300,Western,Luxembourg,Workshop,Promoters,Actual,5267,34316,15.35,37604,9401,1,0.1
+301,Northern,Madagascar,Parts,Promoters,Target,3420,34678,9.86,59218,14804.5,1,0.1
+302,Northern,Malawi,Parts,Detractors,Actual,9559,34202,27.95,63683,15920.75,-9,-0.9
+303,Eastern,Malaysia,Accessories,Neutral,Target,6869,28465,24.13,82781,20695.25,-4,-0.4
+304,Northern,Maldives,Service,Promoters,Actual,8752,44448,19.69,12307,3076.75,4,0.4
+305,Southern,Mali,Accidents,Detractors,Target,6140,31772,19.33,24304,6076,2,0.2
+306,Southern,Malta,Accidents,Neutral,Actual,9635,24514,39.3,10649,2662.25,7,0.7
+307,Other,Marshall Islands,Parts,Promoters,Target,1731,34848,4.97,86479,21619.75,2,0.2
+308,Western,Mauritania,Mechanical,Detractors,Actual,8662,19937,43.45,51765,12941.25,3,0.3
+309,Northern,Mauritius,Accessories,Neutral,Target,8006,20891,38.32,32337,8084.25,1,0.1
+310,Northern,Mexico,Accessories,Promoters,Actual,8570,24101,35.56,41616,10404,4,0.4
+311,Central,Micronesia (Federated States of),Accidents,Detractors,Target,3856,37925,10.17,27493,6873.25,5,0.5
+312,Northern,Monaco,Workshop,Neutral,Actual,9271,27985,33.13,78145,19536.25,2,0.2
+313,Northern,Mongolia,Parts,Promoters,Target,2758,15306,18.02,47915,11978.75,8,0.8
+314,Eastern,Montenegro,Parts,Detractors,Actual,7968,28935,27.54,58717,14679.25,-6,-0.6
+315,Northern,Morocco,Accessories,Neutral,Target,3510,25692,13.66,71883,17970.75,-4,-0.4
+316,Southern,Mozambique,Service,Promoters,Actual,2120,40316,5.26,45738,11434.5,1,0.1
+317,Western,Myanmar,Accidents,Detractors,Target,3168,39996,7.92,22626,5656.5,1,0.1
+318,Northern,Namibia,Accidents,Neutral,Actual,5555,12564,44.21,89693,22423.25,4,0.4
+319,Southern,Nauru,Parts,Promoters,Target,5493,26393,20.81,71199,17799.75,7,0.7
+320,Southern,Nepal,Mechanical,Detractors,Actual,8037,11210,71.69,14448,3612,-8,-0.8
+321,Northern,Netherlands,Accessories,Neutral,Target,7976,23885,33.39,67104,16776,6,0.6
+322,Northern,New Zealand,Service,Promoters,Actual,1751,25183,6.95,64084,16021,3,0.3
+323,Northern,Nicaragua,Service,Detractors,Target,6577,14769,44.53,75799,18949.75,-1,-0.1
+324,Eastern,Niger,Workshop,Neutral,Actual,8453,14800,57.11,39821,9955.25,7,0.7
+325,Central,Nigeria,Parts,Promoters,Target,7596,36902,20.58,44866,11216.5,1,0.1
+326,Southern,North Macedonia,Mechanical,Detractors,Actual,9057,21076,42.97,27612,6903,5,0.5
+327,Northern,Norway,Accessories,Neutral,Target,7372,22513,32.75,55927,13981.75,6,0.6
+328,Northern,Oman,Accessories,Promoters,Actual,2604,31898,8.16,16919,4229.75,6,0.6
+329,Eastern,Pakistan,Accidents,Detractors,Target,4546,43678,10.41,37795,9448.75,6,0.6
+330,Central,Palau,Workshop,Neutral,Actual,1425,46034,3.1,87193,21798.25,9,0.9
+331,Central,Panama,Parts,Promoters,Target,8995,21301,42.23,40245,10061.25,4,0.4
+332,Western,Papua New Guinea,Parts,Detractors,Actual,7220,47844,15.09,42960,10740,8,0.8
+333,Northern,Paraguay,Accessories,Neutral,Target,3295,37458,8.8,34820,8705,4,0.4
+334,Western,Peru,Service,Promoters,Actual,1879,37594,5,58442,14610.5,5,0.5
+335,Western,Philippines,Accidents,Detractors,Target,2700,41014,6.58,64660,16165,3,0.3
+336,Western,Poland,Workshop,Neutral,Actual,6185,34461,17.95,80994,20248.5,8,0.8
+337,Northern,Portugal,Workshop,Promoters,Target,8956,43636,20.52,39697,9924.25,-3,-0.3
+338,Northern,Qatar,Mechanical,Detractors,Actual,7310,36358,20.11,37639,9409.75,3,0.3
+339,Eastern,Republic of Korea,Accessories,Neutral,Target,5664,35848,15.8,27705,6926.25,-3,-0.3
+340,Northern,Republic of Moldova,Service,Promoters,Actual,1976,37825,5.22,14468,3617,10,1
+341,Southern,Romania,Accidents,Detractors,Target,9521,34756,27.39,85998,21499.5,10,1
+342,Southern,Russian Federation,Workshop,Neutral,Actual,8205,38776,21.16,34681,8670.25,3,0.3
+343,Other,Rwanda,Workshop,Promoters,Target,4359,38718,11.26,76825,19206.25,7,0.7
+344,Western,Saint Kitts and Nevis,Mechanical,Detractors,Actual,8337,47678,17.49,59505,14876.25,4,0.4
+345,Northern,Saint Lucia,Accessories,Neutral,Target,9897,48342,20.47,18201,4550.25,-1,-0.1
+346,Northern,Saint Vincent and the Grenadines,Service,Promoters,Actual,2127,23823,8.93,44089,11022.25,3,0.3
+347,Central,Samoa,Accidents,Detractors,Target,2600,23268,11.17,69062,17265.5,9,0.9
+348,Northern,San Marino,Accidents,Neutral,Actual,2845,44959,6.33,45438,11359.5,10,1
+349,Northern,Sao Tome and Principe,Parts,Promoters,Target,8208,47416,17.31,87377,21844.25,4,0.4
+350,Eastern,Saudi Arabia,Parts,Detractors,Actual,4032,32882,12.26,70722,17680.5,4,0.4
+351,Northern,Senegal,Accessories,Neutral,Target,7163,42184,16.98,63560,15890,-2,-0.2
+352,Southern,Serbia,Service,Promoters,Actual,2526,11403,22.15,55099,13774.75,5,0.5
+353,Western,Seychelles,Service,Detractors,Target,7531,14671,51.33,30231,7557.75,8,0.8
+354,Northern,Sierra Leone,Workshop,Neutral,Actual,9988,37107,26.92,57797,14449.25,10,1
+355,Southern,Singapore,Parts,Promoters,Target,2953,30645,9.64,12582,3145.5,-3,-0.3
+356,Southern,Slovakia,Mechanical,Detractors,Actual,9208,29902,30.79,12055,3013.75,7,0.7
+357,Northern,Slovenia,Mechanical,Neutral,Target,2515,38201,6.58,74998,18749.5,1,0.1
+358,Northern,Solomon Islands,Service,Promoters,Actual,2874,14244,20.18,58606,14651.5,-6,-0.6
+359,Northern,Somalia,Accidents,Detractors,Target,8938,20053,44.57,64964,16241,7,0.7
+360,Eastern,South Africa,Accidents,Neutral,Actual,5425,13746,39.47,68897,17224.25,2,0.2
+361,Central,South Sudan,Parts,Promoters,Target,5004,36757,13.61,52684,13171,1,0.1
+362,Southern,Spain,Parts,Detractors,Actual,7836,22252,35.21,22195,5548.75,4,0.4
+363,Northern,Sri Lanka,Accessories,Neutral,Target,7652,18943,40.39,40295,10073.75,-4,-0.4
+364,Northern,Sudan,Service,Promoters,Actual,9273,33732,27.49,50678,12669.5,1,0.1
+365,Eastern,Suriname,Service,Detractors,Target,6506,12364,52.62,62110,15527.5,9,0.9
+366,Central,Sweden,Workshop,Neutral,Actual,6343,24707,25.67,28850,7212.5,3,0.3
+367,Central,Switzerland,Workshop,Promoters,Target,8892,21006,42.33,10904,2726,4,0.4
+368,Western,Syrian Arab Republic,Mechanical,Detractors,Actual,8513,36911,23.06,11402,2850.5,10,1
+369,Northern,Tajikistan,Accessories,Neutral,Target,1566,35887,4.36,75641,18910.25,4,0.4
+370,Western,Thailand,Accessories,Promoters,Actual,6947,44628,15.57,81067,20266.75,-2,-0.2
+371,Western,Timor-Leste,Accidents,Detractors,Target,4227,11549,36.6,22125,5531.25,10,1
+372,Western,Togo,Accidents,Neutral,Actual,7460,37834,19.72,77161,19290.25,1,0.1
+373,Northern,Tonga,Parts,Promoters,Target,1890,20047,9.43,10072,2518,2,0.2
+374,Northern,Trinidad and Tobago,Parts,Detractors,Actual,2916,15487,18.83,43766,10941.5,3,0.3
+375,Eastern,Tunisia,Accessories,Neutral,Target,4797,39279,12.21,81016,20254,1,0.1
+376,Northern,Turkey,Service,Promoters,Actual,3847,23197,16.58,45522,11380.5,7,0.7
+377,Southern,Turkmenistan,Accidents,Detractors,Target,6240,28716,21.73,53397,13349.25,7,0.7
+378,Southern,Tuvalu,Workshop,Neutral,Actual,2640,41300,6.39,26432,6608,9,0.9
+379,Other,Uganda,Parts,Promoters,Target,4755,13476,35.28,52858,13214.5,-2,-0.2
+380,Western,Ukraine,Mechanical,Detractors,Actual,9378,32145,29.17,35310,8827.5,1,0.1
+381,Northern,United Arab Emirates,Accessories,Neutral,Target,1189,43142,2.76,26677,6669.25,6,0.6
+382,Northern,United Kingdom of Great Britain and Northern Ireland,Accessories,Promoters,Actual,2594,43208,6,47709,11927.25,6,0.6
+383,Central,United Republic of Tanzania,Accidents,Detractors,Target,3241,15358,21.1,53024,13256,-3,-0.3
+384,Northern,United States of America,Workshop,Neutral,Actual,1968,23097,8.52,63534,15883.5,8,0.8
+385,Northern,Uruguay,Parts,Promoters,Target,9803,29135,33.65,24955,6238.75,2,0.2
+386,Eastern,Uzbekistan,Parts,Detractors,Actual,3748,24509,15.29,12089,3022.25,-2,-0.2
+387,Northern,Vanuatu,Accessories,Neutral,Target,1626,28848,5.64,51733,12933.25,7,0.7
+388,Southern,Venezuela (Bolivarian Republic of),Service,Promoters,Actual,3084,36175,8.53,60248,15062,3,0.3
+389,Western,Viet Nam,Accidents,Detractors,Target,1935,24651,7.85,36395,9098.75,7,0.7
+390,Northern,Yemen,Accidents,Neutral,Actual,7103,25531,27.82,60464,15116,5,0.5
+391,Southern,Zambia,Parts,Promoters,Target,7962,26203,30.39,21932,5483,7,0.7
+392,Southern,Zimbabwe,Mechanical,Detractors,Actual,3987,29804,13.38,30105,7526.25,9,0.9
+393,Northern,United States,Accessories,Neutral,Target,1405,33343,4.21,20629,5157.25,-9,-0.9
+394,Northern,UK,Accessories,Promoters,Actual,2981,31208,9.55,66265,16566.25,8,0.8
+395,Northern,Norway,Accidents,Detractors,Target,9994,15048,66.41,22799,5699.75,9,0.9
+396,Eastern,Afghanistan,Workshop,Neutral,Actual,7498,41884,17.9,89211,22302.75,10,1
+397,Central,Albania,Workshop,Promoters,Target,5215,41601,12.54,37354,9338.5,2,0.2
+398,Southern,Algeria,Mechanical,Detractors,Actual,1064,16568,6.42,38020,9505,-2,-0.2
+399,Northern,Andorra,Accessories,Neutral,Target,1659,11074,14.98,61004,15251,7,0.7
+400,Northern,Angola,Accessories,Promoters,Actual,5281,49124,10.75,85988,21497,4,0.4
+401,Eastern,Antigua and Barbuda,Accidents,Promoters,Target,3414,36211,9.43,53784,13446,4,0.4
+402,Central,Argentina,Workshop,Detractors,Actual,7576,40758,18.59,82704,20676,-5,-0.5
+403,Central,Armenia,Workshop,Neutral,Target,3174,48017,6.61,37730,9432.5,-4,-0.4
+404,Western,Australia,Mechanical,Promoters,Actual,3107,16386,18.96,12776,3194,4,0.4
+405,Northern,Austria,Accessories,Detractors,Target,1260,12403,10.16,66584,16646,2,0.2
+406,Western,Azerbaijan,Accessories,Neutral,Actual,1125,35711,3.15,77616,19404,3,0.3
+407,Western,Bahamas,Accidents,Promoters,Target,1028,18123,5.67,66191,16547.75,8,0.8
+408,Western,Bahrain,Workshop,Detractors,Actual,7339,29393,24.97,38797,9699.25,10,1
+409,Northern,Bangladesh,Workshop,Neutral,Target,5117,23624,21.66,66620,16655,-2,-0.2
+410,Northern,Barbados,Mechanical,Promoters,Actual,2297,19623,11.71,51341,12835.25,5,0.5
+411,Eastern,Belarus,Accessories,Detractors,Target,8114,40917,19.83,58180,14545,6,0.6
+412,Northern,Belgium,Service,Neutral,Actual,4719,46254,10.2,53508,13377,1,0.1
+413,Southern,Belize,Service,Promoters,Target,9813,23422,41.9,30040,7510,10,1
+414,Southern,Benin,Workshop,Detractors,Actual,8081,47530,17,64787,16196.75,-6,-0.6
+415,Other,Bhutan,Parts,Neutral,Target,3258,37963,8.58,71455,17863.75,8,0.8
+416,Western,Bolivia (Plurinational State of),Mechanical,Promoters,Actual,1408,41551,3.39,80374,20093.5,-1,-0.1
+417,Northern,Bosnia and Herzegovina,Mechanical,Detractors,Target,1201,23784,5.05,41157,10289.25,10,1
+418,Northern,Botswana,Service,Neutral,Actual,5367,42445,12.64,36553,9138.25,1,0.1
+419,Central,Brazil,Mechanical,Promoters,Target,5442,29423,18.5,20655,5163.75,2,0.2
+420,Northern,Brunei Darussalam,Workshop,Detractors,Actual,6694,19718,33.95,57550,14387.5,-8,-0.8
+421,Northern,Bulgaria,Workshop,Neutral,Target,5753,13806,41.67,19624,4906,1,0.1
+422,Eastern,Burkina Faso,Mechanical,Promoters,Actual,2110,10041,21.01,84680,21170,2,0.2
+423,Northern,Burundi,Accessories,Detractors,Target,5890,18755,31.4,65827,16456.75,-7,-0.7
+424,Southern,Cabo Verde,Service,Neutral,Actual,1943,45785,4.24,75433,18858.25,7,0.7
+425,Western,Cambodia,Service,Promoters,Target,3554,17921,19.83,79834,19958.5,6,0.6
+426,Northern,Cameroon,Workshop,Detractors,Actual,4512,30185,14.95,29132,7283,9,0.9
+427,Southern,Canada,Parts,Neutral,Target,2453,38666,6.34,40212,10053,7,0.7
+428,Southern,Central African Republic,Mechanical,Promoters,Actual,8377,18497,45.29,69384,17346,10,1
+429,Northern,Chad,Mechanical,Detractors,Target,5418,23985,22.59,51075,12768.75,5,0.5
+430,Northern,Chile,Service,Neutral,Actual,9767,35264,27.7,12583,3145.75,-9,-0.9
+431,Northern,China,Accidents,Promoters,Target,1113,48408,2.3,55506,13876.5,2,0.2
+432,Eastern,Colombia,Accidents,Detractors,Actual,7471,26206,28.51,68190,17047.5,9,0.9
+433,Central,Comoros,Mechanical,Neutral,Target,4776,29489,16.2,73057,18264.25,4,0.4
+434,Southern,Congo,Parts,Promoters,Actual,4478,26465,16.92,25332,6333,1,0.1
+435,Northern,Costa Rica,Accessories,Detractors,Target,1655,41995,3.94,88373,22093.25,7,0.7
+436,Northern,Côte d'Ivoire,Service,Neutral,Actual,9491,28720,33.05,66294,16573.5,-9,-0.9
+437,Eastern,Croatia,Service,Promoters,Target,5533,14808,37.36,52980,13245,4,0.4
+438,Central,Cuba,Mechanical,Detractors,Actual,4845,37098,13.06,13423,3355.75,4,0.4
+439,Central,Cyprus,Parts,Neutral,Target,9014,39220,22.98,80941,20235.25,-3,-0.3
+440,Western,Czechia,Parts,Promoters,Actual,4095,36369,11.26,77142,19285.5,3,0.3
+441,Northern,Democratic People's Republic of Korea,Accessories,Detractors,Target,4962,34813,14.25,70743,17685.75,8,0.8
+442,Western,Democratic Republic of the Congo,Service,Neutral,Actual,4766,31809,14.98,86724,21681,1,0.1
+443,Western,Denmark,Accidents,Promoters,Target,2774,13768,20.15,83194,20798.5,-5,-0.5
+444,Western,Djibouti,Accidents,Detractors,Actual,2401,19966,12.03,26721,6680.25,1,0.1
+445,Northern,Dominica,Parts,Neutral,Target,7191,35899,20.03,49187,12296.75,-1,-0.1
+446,Northern,Dominican Republic,Mechanical,Promoters,Actual,2219,12520,17.72,62135,15533.75,4,0.4
+447,Eastern,Ecuador,Mechanical,Detractors,Target,8887,42284,21.02,55524,13881,1,0.1
+448,Northern,Egypt,Service,Neutral,Actual,4076,49572,8.22,13139,3284.75,3,0.3
+449,Southern,El Salvador,Accidents,Promoters,Target,8610,33386,25.79,70831,17707.75,8,0.8
+450,Southern,Equatorial Guinea,Workshop,Detractors,Actual,1328,41212,3.22,34493,8623.25,7,0.7
+451,Other,Eritrea,Workshop,Neutral,Target,6813,34107,19.98,57841,14460.25,-2,-0.2
+452,Western,Estonia,Mechanical,Promoters,Actual,9393,23797,39.47,41719,10429.75,6,0.6
+453,Northern,Eswatini,Accessories,Detractors,Target,5249,30189,17.39,60289,15072.25,10,1
+454,Northern,Ethiopia,Accessories,Neutral,Actual,4366,25339,17.23,35170,8792.5,7,0.7
+455,Central,Fiji,Mechanical,Promoters,Target,8806,30622,28.76,59560,14890,-3,-0.3
+456,Northern,Finland,Workshop,Detractors,Actual,3641,14185,25.67,30366,7591.5,9,0.9
+457,Northern,France,Parts,Neutral,Target,8990,42783,21.01,22011,5502.75,-2,-0.2
+458,Eastern,Gabon,Mechanical,Promoters,Actual,2778,13771,20.17,10336,2584,-5,-0.5
+459,Northern,Gambia,Mechanical,Detractors,Target,9092,19078,47.66,54736,13684,1,0.1
+460,Southern,Georgia,Service,Neutral,Actual,9922,33189,29.9,43707,10926.75,3,0.3
+461,Western,Germany,Accidents,Promoters,Target,1074,24473,4.39,35643,8910.75,1,0.1
+462,Northern,Ghana,Workshop,Detractors,Actual,4979,42370,11.75,57202,14300.5,1,0.1
+463,Southern,Greece,Parts,Neutral,Target,3287,41856,7.85,67193,16798.25,-4,-0.4
+464,Southern,Grenada,Parts,Promoters,Actual,9304,17306,53.76,11839,2959.75,3,0.3
+465,Northern,Guatemala,Accessories,Detractors,Target,6898,22764,30.3,32840,8210,-1,-0.1
+466,Northern,Guinea,Service,Neutral,Actual,2541,13501,18.82,46470,11617.5,8,0.8
+467,Northern,Guinea-Bissau,Accidents,Promoters,Target,1456,43448,3.35,45791,11447.75,7,0.7
+468,Eastern,Guyana,Accidents,Detractors,Actual,2856,20972,13.62,62732,15683,10,1
+469,Central,Haiti,Mechanical,Neutral,Target,7502,44260,16.95,24619,6154.75,8,0.8
+470,Southern,Honduras,Mechanical,Promoters,Actual,5273,31028,16.99,35072,8768,-2,-0.2
+471,Northern,Hungary,Accessories,Detractors,Target,4026,18169,22.16,34190,8547.5,-5,-0.5
+472,Northern,Iceland,Service,Neutral,Actual,5605,32691,17.15,15092,3773,4,0.4
+473,Eastern,India,Service,Promoters,Target,1117,47650,2.34,28376,7094,4,0.4
+474,Central,Indonesia,Workshop,Detractors,Actual,9365,21891,42.78,16338,4084.5,8,0.8
+475,Central,Iran (Islamic Republic of),Mechanical,Neutral,Target,3949,14844,26.6,32676,8169,2,0.2
+476,Western,Iraq,Parts,Promoters,Actual,3386,42439,7.98,52533,13133.25,8,0.8
+477,Northern,Ireland,Accessories,Detractors,Target,8940,39690,22.52,43790,10947.5,8,0.8
+478,Western,Israel,Service,Neutral,Actual,8275,25925,31.92,54943,13735.75,4,0.4
+479,Western,Italy,Accidents,Promoters,Target,9585,28211,33.98,72034,18008.5,-2,-0.2
+480,Western,Jamaica,Accidents,Detractors,Actual,8530,33685,25.32,75410,18852.5,10,1
+481,Northern,Japan,Parts,Neutral,Target,8380,24811,33.78,58320,14580,10,1
+482,Northern,Jordan,Mechanical,Promoters,Actual,4825,18534,26.03,28463,7115.75,7,0.7
+483,Eastern,Kazakhstan,Mechanical,Detractors,Target,3485,38679,9.01,15669,3917.25,-3,-0.3
+484,Northern,Kenya,Service,Neutral,Actual,4883,47031,10.38,11299,2824.75,5,0.5
+485,Southern,Kiribati,Accidents,Promoters,Target,2245,14273,15.73,22207,5551.75,6,0.6
+486,Southern,Kuwait,Workshop,Detractors,Actual,3626,17889,20.27,69977,17494.25,-2,-0.2
+487,Other,Kyrgyzstan,Parts,Neutral,Target,2316,28939,8,45661,11415.25,6,0.6
+488,Western,Lao People's Democratic Republic,Parts,Promoters,Actual,9158,37360,24.51,33255,8313.75,4,0.4
+489,Northern,Latvia,Accessories,Detractors,Target,1680,22289,7.54,59391,14847.75,7,0.7
+490,Northern,Lebanon,Service,Neutral,Actual,2891,44279,6.53,33339,8334.75,7,0.7
+491,Central,Lesotho,Mechanical,Promoters,Target,3552,15434,23.01,86943,21735.75,6,0.6
+492,Northern,Liberia,Accidents,Detractors,Actual,4685,29547,15.86,70620,17655,1,0.1
+493,Northern,Libya,Parts,Neutral,Target,7552,21484,35.15,86371,21592.75,3,0.3
+494,Eastern,Liechtenstein,Mechanical,Promoters,Actual,2118,47173,4.49,69920,17480,4,0.4
+495,Northern,Lithuania,Accessories,Detractors,Target,8642,42987,20.1,70907,17726.75,4,0.4
+496,Southern,Luxembourg,Accessories,Neutral,Actual,2447,39678,6.17,29703,7425.75,4,0.4
+497,Western,Madagascar,Accidents,Promoters,Target,6366,44828,14.2,65868,16467,10,1
+498,Northern,Malawi,Workshop,Detractors,Actual,8760,41895,20.91,18797,4699.25,-2,-0.2
+499,Southern,Malaysia,Parts,Neutral,Target,5175,22675,22.82,70676,17669,4,0.4
+500,Southern,Maldives,Parts,Promoters,Actual,6048,10222,59.17,35863,8965.75,1,0.1

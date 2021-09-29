@@ -1,0 +1,5 @@
+Top 10users by posts
+select top 10 [UserID],sum(distinct([Post_views])) as [Count] from ? group by [UserID] order by sum(distinct([Post_views])) desc
+ 
+Employment status wise Average salary
+select * from ? where [Employment_status] !='Student'; 
